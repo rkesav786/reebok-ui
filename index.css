@@ -1,0 +1,16 @@
+marquee{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size:small;
+}
+#navbar1{
+    /* margin-left: 67%; */
+    float: inline-end;
+}
+#navbar2{
+    margin: 5px;
+    font-size: small;
+    font-weight:700;
+
+}
